@@ -1,4 +1,3 @@
-
 // Call Stack:-
 
 // Call stack ek data structure hai jo track karta hai ke konsa function call kahan se aaya hai aur kis order mein call hua hai.

@@ -38,3 +38,4 @@ const output =multiplyBy2(num);//it command(parenthesis)
 // only store values(that's fixed and final things)can't store a go do some work
 const newOutput =multiplyBy2(10);
 
+

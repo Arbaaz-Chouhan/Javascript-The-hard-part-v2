@@ -13,6 +13,8 @@ function outer() {
 
 const output = outer();
 output();
+outer.inner();
+
 
 // In this example, the inner() function retains a reference to the x variable from its outer scope, even after the outer() function has returned. This is possible because the inner() function is defined within the scope of outer(), and so it can "close over" the x variable and retain a reference to it.
 
